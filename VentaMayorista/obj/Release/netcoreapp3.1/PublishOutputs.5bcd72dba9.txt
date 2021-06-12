@@ -1,0 +1,5 @@
+D:\ToTy\Escritorio\VentaMayoristaQuark\VentaMayorista.exe
+D:\ToTy\Escritorio\VentaMayoristaQuark\VentaMayorista.dll
+D:\ToTy\Escritorio\VentaMayoristaQuark\VentaMayorista.deps.json
+D:\ToTy\Escritorio\VentaMayoristaQuark\VentaMayorista.runtimeconfig.json
+D:\ToTy\Escritorio\VentaMayoristaQuark\VentaMayorista.pdb
